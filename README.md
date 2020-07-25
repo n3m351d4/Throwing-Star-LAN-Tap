@@ -12,6 +12,7 @@ _______________________________________________________________________
 
 [Заказать PCB - только печатная плата](https://boosty.to/inside/posts/faa6f87d-8b33-479f-bfa6-ad833eccd00f?share=post_link)
 
+25.07.2020 - заказано 5 шт синих (с комплектующими)
 
 ![](https://pbs.twimg.com/media/EdpJVpBXsAAls72?format=jpg&name=large)
 ![](https://pbs.twimg.com/media/Edrdg6AXoAEMVS2?format=png&name=large)
