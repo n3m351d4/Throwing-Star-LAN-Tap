@@ -6,6 +6,7 @@
 
 [Как связать каналы в единый интерфейс](https://knowm.org/how-to-create-a-bonded-network-interface/)
 
+[Implementing Networks Taps with Network Intrusion Detection Systems ](https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=aa259d0e-a467-41be-91ec-e86bf1c22f96&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments)
 _______________________________________________________________________
 
 [Заказать собранный бейдж](https://boosty.to/inside/posts/b1ceaa1c-2b10-4a5f-97a2-0797ca3b94f7?share=post_link)
