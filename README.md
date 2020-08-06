@@ -4,6 +4,8 @@
 
 [Пример применения - An environment for testing mobile devices](https://openeffect.ca/snifflab-an-environment-for-testing-mobile-devices/)
 
+[Как связать каналы в единый интерфейс](https://knowm.org/how-to-create-a-bonded-network-interface/)
+
 _______________________________________________________________________
 
 [Заказать собранный бейдж](https://boosty.to/inside/posts/b1ceaa1c-2b10-4a5f-97a2-0797ca3b94f7?share=post_link)
